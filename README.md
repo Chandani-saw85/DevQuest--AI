@@ -4,7 +4,7 @@ A unique, interactive game designed specifically for developers, tackling real-w
 
 lets unwrap
 
-## 📖 Game Overview
+## 📖 Game Overview..............
 
 **DevQuest** is an educational game that puts developers through relatable daily scenarios:
 - **The Great Debug** - Find and fix 5 bugs in production code
