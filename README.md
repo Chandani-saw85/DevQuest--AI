@@ -2,7 +2,7 @@
 
 A unique, interactive game designed specifically for developers, tackling real-world daily life issues with AI-powered guidance!!
 
-lets unwrap....................................
+lets unwrap.
 
 ## 📖 Game Overview.
 
